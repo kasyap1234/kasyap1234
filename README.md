@@ -1,7 +1,8 @@
 - 👋 Hi, I’m kasyap dharanikota
 - 👀 I’m interested in artificial intelligence, machine learning , deep learning . 
-- 🌱 I’m currently learning c++ for placements 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data structures and algorithms , problem solving and machine learning 
+
+
 - 📫 How to reach me ...
 
 <!---
