@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kasyap dharanikota
-- 👀 I’m interested in artificial intelligence, machine learning , deep learning . 
+- 👀 I’m interested in artificial intelligence, machine learning , deep learning and web development.  
 - 🌱 I’m currently learning data structures and algorithms , problem solving and machine learning 
 
 
