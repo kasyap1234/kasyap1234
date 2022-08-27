@@ -1,6 +1,7 @@
 - 👋 Hi, I’m kasyap dharanikota
 - 👀 I’m interested in artificial intelligence, machine learning , deep learning and web development.  
-- 🌱 I’m currently learning data structures and algorithms , problem solving and machine learning 
+- 🌱 I’m currently learning data structures and algorithms , problem solving and web development . 
+
 
 
 - 📫 How to reach me: email id: kasyap3101@gmail.com
