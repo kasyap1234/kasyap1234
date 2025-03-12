@@ -24,11 +24,11 @@
 ---------
 <div align="left">
   <div>
-### :woman_technologist: About Me :
+    :woman_technologist: About Me :
   <br/> 
   <br/>
     </div>
- - :telescope: I’m working as a Software Engineer Intern,contributing to frontend and backend for building web applications.
+ - :telescope: I’m working as a Software Engineer,contributing to AI  and backend systems. 
 
 - :seedling: Exploring AI and Blockchain 
 
